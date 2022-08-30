@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 18e4110319dbef94d8aa762d87531b71, type: 3}
+  m_Name: AWP
+  m_EditorClassIdentifier: 
+  Name: AWP
+  MethodName: isShooting
+  ID: 3
+  InventorySprite: {fileID: 21300000, guid: 0f826c91516030642a3926659d03bee4, type: 3}
+  KillFedSprite: {fileID: 21300000, guid: 1bc504c05846aa54db88410aa3d3dd25, type: 3}
+  UI_prefarb: {fileID: 651054854303275747, guid: 12974c6c7ad446c44b08a371196877e4,
+    type: 3}
+  Prefarb: {fileID: 3646036997675698380, guid: 3f8c88240e387464395a65627b3a89da, type: 3}
+  Destroy: 0
+  isQuestable: 0
+  Max_Distance: 1000
+  Animation: 
+  Max_Bullets: 50
+  Mag_size: 5
+  Burst: 1
+  Damage: 50
+  FireRate: 2
+  RangeHorizontal: 0
+  RangeVertical: 0
+  TimeToReload: 1
+  isWeapon: 1
+  isMelee: 0
+  ScopeSize: 20
+  ZoomSize: 10
+  isDMR: 1
+  CountBurst: 0
+  sound: {fileID: 8300000, guid: 4e7acdb0c0daea942b41ad464fb24064, type: 3}

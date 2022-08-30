@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "817500527460",
+    "firebase_url": "https://voxel-war-ea109-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "voxel-war-ea109",
+    "storage_bucket": "voxel-war-ea109.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817500527460:android:317a8504fe3960f6507871",
+        "android_client_info": {
+          "package_name": "com.BlackFoursquare.Voxelwar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "817500527460-j27u799c8gir2c7dk93ecrbhltim93uv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvGUsbDeN7k1AjiRBany2OKN456r7E79k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "817500527460-j27u799c8gir2c7dk93ecrbhltim93uv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

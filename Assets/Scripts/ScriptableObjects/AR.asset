@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 18e4110319dbef94d8aa762d87531b71, type: 3}
+  m_Name: AR
+  m_EditorClassIdentifier: 
+  Name: AR
+  MethodName: isShooting
+  ID: 4
+  InventorySprite: {fileID: 21300000, guid: 7270294414533e347ac8dc1d297beea9, type: 3}
+  KillFedSprite: {fileID: 21300000, guid: 94105157482fcfd44aa8933aab2a64fd, type: 3}
+  UI_prefarb: {fileID: 651054854303275747, guid: 12974c6c7ad446c44b08a371196877e4,
+    type: 3}
+  Prefarb: {fileID: 3646036997675698380, guid: 3f8c88240e387464395a65627b3a89da, type: 3}
+  Destroy: 0
+  isQuestable: 0
+  Max_Distance: 1000
+  Animation: 
+  Max_Bullets: 100
+  Mag_size: 20
+  Burst: 1
+  Damage: 10
+  FireRate: 22
+  RangeHorizontal: 0.015
+  RangeVertical: 0.015
+  TimeToReload: 1
+  isWeapon: 1
+  isMelee: 0
+  ScopeSize: 14
+  ZoomSize: 7
+  isDMR: 0
+  CountBurst: 0
+  sound: {fileID: 8300000, guid: 2ad059df328487546b5dba027127726d, type: 3}

@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 18e4110319dbef94d8aa762d87531b71, type: 3}
+  m_Name: FirstAidKit
+  m_EditorClassIdentifier: 
+  Name: FirstAidKit
+  MethodName: 
+  ID: 8
+  InventorySprite: {fileID: 21300000, guid: 4615c4634d611ba41a385e1151f6db2e, type: 3}
+  KillFedSprite: {fileID: 21300000, guid: 4615c4634d611ba41a385e1151f6db2e, type: 3}
+  UI_prefarb: {fileID: 651054854303275747, guid: 12974c6c7ad446c44b08a371196877e4,
+    type: 3}
+  Prefarb: {fileID: 6483779595506887629, guid: 03b9b99ef09be6145a583e461e56504a, type: 3}
+  Destroy: 1
+  isQuestable: 0
+  Max_Distance: 0
+  Max_Bullets: 0
+  Mag_size: 0
+  Burst: 0
+  Damage: 0
+  FireRate: 10
+  RangeHorizontal: 0
+  RangeVertical: 0
+  TimeToReload: 0
+  isWeapon: 0
+  isMelee: 0
+  ScopeSize: 14
+  ZoomSize: 7
+  isDMR: 0

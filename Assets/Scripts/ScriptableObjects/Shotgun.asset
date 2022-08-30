@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 18e4110319dbef94d8aa762d87531b71, type: 3}
+  m_Name: Shotgun
+  m_EditorClassIdentifier: 
+  Name: Shotgun
+  MethodName: isShooting
+  ID: 1
+  InventorySprite: {fileID: 21300000, guid: fe939e5375a5ee143b8e249360f4f2cd, type: 3}
+  KillFedSprite: {fileID: 21300000, guid: 43c49e1c5e4d3164fb3f7f722bcdb3d5, type: 3}
+  UI_prefarb: {fileID: 651054854303275747, guid: 12974c6c7ad446c44b08a371196877e4,
+    type: 3}
+  Prefarb: {fileID: 3646036997675698380, guid: 3f8c88240e387464395a65627b3a89da, type: 3}
+  Destroy: 0
+  isQuestable: 0
+  Max_Distance: 1000
+  Animation: 
+  Max_Bullets: 25
+  Mag_size: 5
+  Burst: 5
+  Damage: 20
+  FireRate: 1
+  RangeHorizontal: 0.25
+  RangeVertical: 0.25
+  TimeToReload: 1
+  isWeapon: 1
+  isMelee: 0
+  ScopeSize: 10
+  ZoomSize: 5
+  isDMR: 0
+  CountBurst: 0
+  sound: {fileID: 8300000, guid: b4fabf6c70cd0ba4cb0414555dc99e85, type: 3}

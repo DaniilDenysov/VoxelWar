@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 18e4110319dbef94d8aa762d87531b71, type: 3}
+  m_Name: Granade
+  m_EditorClassIdentifier: 
+  Name: Granade
+  MethodName: 
+  ID: 11
+  InventorySprite: {fileID: 21300000, guid: 36a326566ef2f1348b5cc37c297f4078, type: 3}
+  KillFedSprite: {fileID: 21300000, guid: 49181dc141adc604893ffe27b6c96e20, type: 3}
+  UI_prefarb: {fileID: 651054854303275747, guid: 12974c6c7ad446c44b08a371196877e4,
+    type: 3}
+  Prefarb: {fileID: 30554191436111974, guid: da2b5be203a565248aa320b578b60532, type: 3}
+  Destroy: 1
+  isQuestable: 0
+  Max_Distance: 0
+  Max_Bullets: 0
+  Mag_size: 0
+  Burst: 0
+  Damage: 0
+  FireRate: 10
+  RangeHorizontal: 0
+  RangeVertical: 0
+  TimeToReload: 0
+  isWeapon: 0
+  isMelee: 0
+  ScopeSize: 14
+  ZoomSize: 7
+  isDMR: 0

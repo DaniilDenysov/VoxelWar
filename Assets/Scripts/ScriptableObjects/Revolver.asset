@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 18e4110319dbef94d8aa762d87531b71, type: 3}
+  m_Name: Revolver
+  m_EditorClassIdentifier: 
+  Name: Revolver
+  MethodName: isShooting
+  ID: 6
+  InventorySprite: {fileID: 21300000, guid: 9179e1f42f7bb3a4991dbab85f5303e2, type: 3}
+  KillFedSprite: {fileID: 21300000, guid: 440aba976f62e5d4080a0c2e05307532, type: 3}
+  UI_prefarb: {fileID: 651054854303275747, guid: 12974c6c7ad446c44b08a371196877e4,
+    type: 3}
+  Prefarb: {fileID: 3646036997675698380, guid: 3f8c88240e387464395a65627b3a89da, type: 3}
+  Destroy: 0
+  isQuestable: 0
+  Max_Distance: 1000
+  Animation: 
+  Max_Bullets: 25
+  Mag_size: 5
+  Burst: 1
+  Damage: 30
+  FireRate: 1
+  RangeHorizontal: 0.007
+  RangeVertical: 0.007
+  TimeToReload: 1
+  isWeapon: 1
+  isMelee: 0
+  ScopeSize: 14
+  ZoomSize: 7
+  isDMR: 0
+  CountBurst: 0
+  sound: {fileID: 8300000, guid: e713f55d73640cb4491e57dbe1957dea, type: 3}

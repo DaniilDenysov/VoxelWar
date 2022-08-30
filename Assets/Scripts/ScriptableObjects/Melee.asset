@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 18e4110319dbef94d8aa762d87531b71, type: 3}
+  m_Name: Melee
+  m_EditorClassIdentifier: 
+  Name: Melee
+  MethodName: isSwinging
+  ID: 12
+  InventorySprite: {fileID: 21300000, guid: cae88d7476ae6fb4abb10149c45577a6, type: 3}
+  KillFedSprite: {fileID: 21300000, guid: 6f4f0671c7b300b469b7176ffdf0e9f1, type: 3}
+  UI_prefarb: {fileID: 651054854303275747, guid: 12974c6c7ad446c44b08a371196877e4,
+    type: 3}
+  Prefarb: {fileID: 3646036997675698380, guid: 3f8c88240e387464395a65627b3a89da, type: 3}
+  Destroy: 0
+  isQuestable: 0
+  Max_Distance: 2
+  Animation: 
+  Max_Bullets: 0
+  Mag_size: 0
+  Burst: 1
+  Damage: 50
+  FireRate: 5
+  RangeHorizontal: 0
+  RangeVertical: 0
+  TimeToReload: 0
+  isWeapon: 1
+  isMelee: 1
+  ScopeSize: 14
+  ZoomSize: 7
+  isDMR: 0
+  sound: {fileID: 8300000, guid: 1e053aef80e2c9541823e83d5a0ad488, type: 3}
